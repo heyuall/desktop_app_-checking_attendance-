@@ -1,3 +1,3 @@
 # desktop_app_-checking_attendance
-using opencv, python and pyqt
-checking attendance by facial recognition.
+- Using opencv, python and pyqt
+- Checking attendance by facial recognition.
